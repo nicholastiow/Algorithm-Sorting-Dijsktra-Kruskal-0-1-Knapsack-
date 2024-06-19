@@ -1,0 +1,6 @@
+Dataset 1: 2.83e-05 seconds
+Dataset 2: 0.0003318 seconds
+Dataset 3: 0.0041864 seconds
+Dataset 4: 0.0628647 seconds
+Dataset 5: 0.155144 seconds
+Dataset 6: 0.329202 seconds
